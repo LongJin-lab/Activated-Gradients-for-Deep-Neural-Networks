@@ -2,7 +2,7 @@
 This is an offitial implementation of the paper "Activated Gradients for Deep Neural Networks"
 
 ## Useage
-Simply put "GAF.py" in your main file path, and add this line in the hesd of your training script:
+Simply put "GAF.py" in your main file path, and add this line in the head of your training script:
 
 ``` from GAF import SGD_atanMom, SGD_atan, Adam_atan, SGD_atanMom_Ada, SGD_tanh_Mom, SGD_log_Mom, SGD_ori```
 
