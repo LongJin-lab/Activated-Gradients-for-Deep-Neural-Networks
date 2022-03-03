@@ -20,6 +20,8 @@ Run your code.
 
 LeNet uses SGDM with embedded GAF for training on MNIST dataset
 
+Before running the code, you need to download the MNIST dataset in advance.
+
 \MindSpore\datasets\MNIST_Data\train: train-images.idx3-ubyte; train-labels.idx1-ubyte
 
 \MindSpore\datasets\MNIST_Data\test: t10k-images.idx3-ubyte; t10k-labels.idx1-ubyte
