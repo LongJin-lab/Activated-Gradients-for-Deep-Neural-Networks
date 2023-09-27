@@ -1,0 +1,1 @@
+安装所需包后，在terminal输入``python GPU0_runs.py''即可批量运行实验。
