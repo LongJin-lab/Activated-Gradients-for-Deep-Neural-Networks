@@ -1,0 +1,1 @@
+安装所需包后，在terminal输入``python GPUs_runs_cifar.py'' 可批量运行实验。
